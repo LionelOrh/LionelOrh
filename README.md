@@ -1,3 +1,3 @@
-<div aling=center>
-  <h1>Hola soy liooDev</h1>
+<div align="center">
+  <h1 align="center">Hola soy <p color="#2980b9">liooDev</p></h1>
 </div>
