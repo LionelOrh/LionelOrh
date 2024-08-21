@@ -4,7 +4,7 @@
     🚀 Bienvenido a mi perfil de GitHub 🚀<br>
     🌐 Explorando el mundo del código y la tecnología 🌐
   </p>
-  <img src="https://i.pinimg.com/originals/99/44/5c/99445c8cf5e947c1858eb7ab9ed08b6d.jpg" alt="Welcome" width="60%" height="300px" />
+  <img src="https://github.com/user-attachments/assets/cb01d339-dee4-4072-8bdb-9d4c9656cb3e" alt="Welcome"/>
 </div>
 
 
