@@ -39,3 +39,10 @@
 - ![Static Badge](https://img.shields.io/badge/-AUP%20(Agile%20Unified%20Process)-007396?style=flat&logo=agile&logoColor=white)
 - ![Static Badge](https://img.shields.io/badge/-UML%20(Tools)-6DB33F?style=flat&logo=uml&logoColor=white)
 - ![Static Badge](https://img.shields.io/badge/-IBM%20Engineering%20Systems%20Design%20Rhapsody-FF6F00?style=flat&logo=ibm&logoColor=white)
+
+<br>
+
+## Aprendiendo
+- ![Static Badge](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+- ![Static Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+
