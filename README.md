@@ -22,7 +22,7 @@
 - ![Static Badge](https://img.shields.io/badge/%F0%9F%8C%90%20HTML%20%26%20CSS%20-E34F26)
 
 ### Frameworks y Librerías
-- ![Static Badge](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+- [![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)    ![Static Badge](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 - ![Static Badge](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
 - ![Static Badge](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 - ![Static Badge](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
@@ -32,8 +32,8 @@
 - ![Static Badge](https://img.shields.io/badge/-Insomnia-58BDF0?style=flat&logo=insomnia&logoColor=white)
 
 ### Conocimientos en Gestores de BD
-- ![Static Badge](https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=white)
-- ![Static Badge](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=mysql,sql)](https://skillicons.dev)
+
 
 ### Metodologías Ágiles y Herramientas
 - ![Static Badge](https://img.shields.io/badge/-AUP%20(Agile%20Unified%20Process)-007396?style=flat&logo=agile&logoColor=white)
@@ -43,6 +43,4 @@
 <br>
 
 ## Aprendiendo
-- ![Static Badge](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-- ![Static Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-
+[![My Skills](https://skillicons.dev/icons?i=aws,python)](https://skillicons.dev)
