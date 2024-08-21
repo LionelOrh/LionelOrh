@@ -22,10 +22,8 @@
 - ![Static Badge](https://img.shields.io/badge/%F0%9F%8C%90%20HTML%20%26%20CSS%20-E34F26)
 
 ### Frameworks y Librerías
-- [![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
-- [![My Skills](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
-- [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
-- [![My Skills](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=spring,angular,boostrap,donet)](https://skillicons.dev)
+
 
 ### Herramientas y Tecnologías
 - ![Static Badge](https://img.shields.io/badge/-JasperSoft-0078D4?style=flat&logo=jaspersoft&logoColor=white)
