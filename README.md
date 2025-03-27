@@ -12,7 +12,7 @@
 - 💻 Junior Full-Stack Developer enfocado en crear soluciones innovadoras. 🚀
 - 📊 Junior Systems Analyst con pasión por el análisis 🔍 y la optimización de sistemas. 🔧✨
 - 📂 Mi portafolio incluye proyectos que demuestran habilidades en microservicios, seguridad con JWT, generación de reportes y más.
-- [Portafolio](https://mi-portafolio-nine-theta.vercel.app/)
+- [Portafolio](https://lionel-orihuela.vercel.app/)
 <br>
 
 ## Habilidades Técnicas
