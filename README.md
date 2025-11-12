@@ -8,7 +8,6 @@
 </div>
 
 ## Sobre mí
-- 🎓 Estudiante actual de la carrera de Computación e Informática.
 - 💻 Junior Full-Stack Developer enfocado en crear soluciones innovadoras. 🚀
 - 📊 Junior Systems Analyst con pasión por el análisis 🔍 y la optimización de sistemas. 🔧✨
 - 📂 Mi portafolio incluye proyectos que demuestran habilidades en microservicios, seguridad con JWT, generación de reportes y más.
